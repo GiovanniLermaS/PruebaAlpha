@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">PruebaAlpha</string>
+    <string name="period">Plazo</string>
+    <string name="name">Nombre</string>
+    <string name="id">Cédula</string>
+    <string name="incomes">Ingresos</string>
+    <string name="amount">Monto</string>
+    <string name="outgoings">Gastos</string>
+    <string name="askCredit">Solicitar crédito</string>
+    <string name="freeInvestment">Libre inversión</string>
+    <string name="portfolioPurchase">Compra de cartera</string>
+    <string name="requiredField">Campo obligatorio</string>
 </resources>
